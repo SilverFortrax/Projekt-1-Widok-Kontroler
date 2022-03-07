@@ -11,7 +11,7 @@ require_once dirname(__FILE__).'/../config.php';
 $x = $_REQUEST ['x'];
 $y = $_REQUEST ['y'];
 $z = $_REQUEST ['z'];
-
+//zmiana do sprawdzenia 
 
 // 2. walidacja parametrów z przygotowaniem zmiennych dla widoku
 
